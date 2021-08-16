@@ -17,7 +17,7 @@ The Scale is chosen by turning the Encoder Knob:
 7. Octaves
 
 
-Roote_Modes:
+Root Modes:
 The Root-Note is Selected by turning the same Encoder Knob while held pressed down!
 With the Rotate function All Scales are availiable from C, C-sharp, D, D-Sharp, E .... A, A-Sharp, B. So no need to transpose your oscillator anymore!
 Every Scale Mode is availiable with every Root Note Selected!
