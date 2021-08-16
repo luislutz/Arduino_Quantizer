@@ -49,3 +49,8 @@ Quantized Pitch CV Output
 
 Toggle Switch to activate and deactivate current selected CV_Mode
 
+Buffered Output with Scale trimpot for calibraion!
+
+Inputs safe for Eurorack levels.
+
+
